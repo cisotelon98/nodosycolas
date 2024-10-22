@@ -1,4 +1,4 @@
-# nodosycolas
+# Pilassycolas
 
 # Ejemplo de Cola en el Taller de Motos
 ##  1. Definición del Problema
